@@ -1,7 +1,7 @@
 // ES6
 
 const setBackground = () => {
-    let pl = document.querySelector('.first');
+    let p1 = document.querySelector('.first');
     let p2 = document.querySelector('.last');
 
     // nawiązuje do CSS
